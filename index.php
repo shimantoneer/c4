@@ -1,4 +1,4 @@
 <?php
-header("Location: https://einsteinandjones.com/workprocess/");
+header("Location: http://www.einstein.yu.edu/about/history.asp");
 die();
 ?>
